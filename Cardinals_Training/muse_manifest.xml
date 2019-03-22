@@ -1,0 +1,149 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.dreahawkins.com" resolutions="1x" timestamp="1553267109082">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="4094401940" ref="untitled-9:untitled-13:untitled-17:untitled-6:untitled-8:untitled-7:untitled-10:untitled-5:untitled-16:untitled-15:untitled-4:untitled-11:untitled-12:untitled-14"/>
+    <file name="untitled-9.css" crc="3922870386" ref="untitled-9"/>
+    <file name="untitled-13.css" crc="3794963888" ref="untitled-13"/>
+    <file name="untitled-17.css" crc="4010798609" ref="untitled-17"/>
+    <file name="untitled-6.css" crc="30710403" ref="untitled-6"/>
+    <file name="untitled-8.css" crc="3961827955" ref="untitled-8"/>
+    <file name="untitled-7.css" crc="177265745" ref="untitled-7"/>
+    <file name="untitled-10.css" crc="3899066377" ref="untitled-10"/>
+    <file name="untitled-5.css" crc="4284529071" ref="untitled-5"/>
+    <file name="untitled-3.css" crc="306432511" ref="untitled-3"/>
+    <file name="untitled-16.css" crc="494503859" ref="untitled-16"/>
+    <file name="untitled-15.css" crc="270570357" ref="untitled-15"/>
+    <file name="untitled-4.css" crc="385573362" ref="untitled-4"/>
+    <file name="untitled-11.css" crc="360954652" ref="untitled-11"/>
+    <file name="index.css" crc="150799953" ref="index"/>
+    <file name="name.css" crc="144655722" ref="name"/>
+    <file name="untitled-12.css" crc="4120264136" ref="untitled-12"/>
+    <file name="untitled-14.css" crc="3825975346" ref="untitled-14"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17"/>
+    <file name="museutils.js" crc="340535759" ref="index:name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17"/>
+    <file name="whatinput.js" crc="86476730" ref="index:name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17"/>
+    <file name="require.js" crc="7928878" ref="index:name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17"/>
+    <file name="webpro.js" crc="4059564322" ref="name"/>
+    <file name="form_check.php" crc="4020933626" ref="name"/>
+    <file name="form_throttle.php" crc="4259590256" ref="name"/>
+    <file name="form_process.php" crc="37464564" ref="name"/>
+    <file name="form-u425.php" crc="4226435491" ref="name"/>
+  </folder>
+  <folder name="images">
+    <file name="30jv65hnsy89fdcgqzfe0nah1.gif" crc="4038300431" seo="true" ref="index:untitled-17">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-17" alt=""/>
+    </file>
+    <file name="right11.svg" crc="522946345" seo="true" ref="index:name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16">
+      <caption webpage="untitled-13" alt=""/>
+      <caption webpage="name" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="untitled-15" alt=""/>
+      <caption webpage="untitled-9" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-8" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="untitled-12" alt=""/>
+      <caption webpage="untitled-16" alt=""/>
+      <caption webpage="untitled-10" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-11" alt=""/>
+      <caption webpage="untitled-14" alt=""/>
+    </file>
+    <file name="right11_poster_.png" crc="4258965318" ref="index"/>
+    <file name="cards.png" crc="4005661564" seo="true" ref="name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17">
+      <caption webpage="untitled-13" alt=""/>
+      <caption webpage="untitled-17" alt=""/>
+      <caption webpage="name" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-15" alt=""/>
+      <caption webpage="untitled-9" alt=""/>
+      <caption webpage="untitled-8" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="untitled-12" alt=""/>
+      <caption webpage="untitled-16" alt=""/>
+      <caption webpage="untitled-10" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="untitled-11" alt=""/>
+      <caption webpage="untitled-14" alt=""/>
+    </file>
+    <file name="left15.svg" crc="4160970895" seo="true" ref="name:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10">
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-10" alt=""/>
+      <caption webpage="untitled-9" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="name" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-8" alt=""/>
+    </file>
+    <file name="left15_poster_.png" crc="282088814" ref="name"/>
+    <file name="medal1.svg" crc="4224026814" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="medal1_poster_.png" crc="4209565111" ref="untitled-4"/>
+    <file name="profile29.svg" crc="3987248713" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="profile29_poster_.png" crc="3914569508" ref="untitled-4"/>
+    <file name="message30.svg" crc="336551935" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="message30_poster_.png" crc="3889420024" ref="untitled-4"/>
+    <file name="bulb19.svg" crc="4108382775" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="bulb19_poster_.png" crc="486217339" ref="untitled-5"/>
+    <file name="question57.svg" crc="101606308" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="question57_poster_.png" crc="3785234367" ref="untitled-5"/>
+    <file name="update23.svg" crc="4114794717" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="update23_poster_.png" crc="3812845179" ref="untitled-5"/>
+    <file name="bag45.svg" crc="3814481159" seo="true" ref="untitled-8">
+      <caption webpage="untitled-8" alt=""/>
+    </file>
+    <file name="bag45_poster_.png" crc="4131520488" ref="untitled-8"/>
+    <file name="cocktail.svg" crc="414153955" seo="true" ref="untitled-9">
+      <caption webpage="untitled-9" alt=""/>
+    </file>
+    <file name="cocktail_poster_.png" crc="4111351601" ref="untitled-9"/>
+    <file name="notes27.svg" crc="4093666577" seo="true" ref="untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16">
+      <caption webpage="untitled-13" alt=""/>
+      <caption webpage="untitled-12" alt=""/>
+      <caption webpage="untitled-11" alt=""/>
+      <caption webpage="untitled-14" alt=""/>
+      <caption webpage="untitled-15" alt=""/>
+      <caption webpage="untitled-16" alt=""/>
+    </file>
+    <file name="notes27_poster_.png" crc="3972940632" ref="untitled-11"/>
+  </folder>
+  <file name="index.html" crc="4226760706" seo="true" mt="1553267027605" redirect="true"/>
+  <file name="name.html" crc="4274024710" seo="true" mt="1553267045359" redirect="true"/>
+  <file name="untitled-3.html" crc="363229091" seo="true" mt="1553265824226" redirect="true"/>
+  <file name="untitled-4.html" crc="314924286" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-5.html" crc="74228629" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-6.html" crc="4018863662" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-7.html" crc="4100900185" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-8.html" crc="4007531178" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-9.html" crc="269737691" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-10.html" crc="3921289094" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-11.html" crc="3856506290" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-12.html" crc="4246260687" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-13.html" crc="433569046" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-14.html" crc="4268399821" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-15.html" crc="149303859" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-16.html" crc="404939386" seo="true" mt="1553266918793" redirect="true"/>
+  <file name="untitled-17.html" crc="323468488" seo="true" mt="1553266918793" redirect="true"/>
+</manifest>
